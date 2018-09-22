@@ -22,7 +22,7 @@ public class MediaMaxMin {
 		double max = Math.max(Math.max(nota1, nota2), nota3);
 
 		System.out.println("O menor número é:"+ min);
-		System.out.println("O maior número é:"+ min);
+		System.out.println("O maior número é:"+ max);
 		teclado.close();
 		
 	}
