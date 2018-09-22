@@ -18,7 +18,7 @@ public class Deposito {
 	public static void main(String[] args) {
 		
 		Scanner teclado = new Scanner(System.in);
-		System.out.println(" 1) Depositar \n"
+		System.out.println("1) Depositar \n"
 				+ "2) Sacar \n"
 				+ "3) Verificar Saldo");
 		int numero = Integer.parseInt(teclado.nextLine());
